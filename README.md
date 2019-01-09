@@ -94,9 +94,9 @@ Paoge Moua - primary author
 * [Bob's Burgers - Burger of the Day]
 
 ## Project Status
-12.31.18 Project open - in progress
-1.7.19 Initial files commited to GitHub - fail attempt
-1.8.19 Attempt to commit new files - in progress
+* 12.31.18 Project open - in progress
+* 1.7.19 Initial files commited to GitHub - fail attempt
+* 1.8.19 Attempt to commit new files - in progress
 
 <!-- Linked -->
 [MIT]: https://choosealicense.com/licenses/mit/
