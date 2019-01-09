@@ -91,7 +91,7 @@ Paoge Moua - primary author
 * GitHub: https://github.com/paogemoua
 
 ## Reference
-* Bob's Burgers - Burger of the Day
+* [Bob's Burgers - Burger of the Day]
 
 ## Project Status
 12.31.18 Project open - in progress
