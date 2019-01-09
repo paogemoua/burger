@@ -67,13 +67,13 @@ All the recommended files and directories from the steps above should look like 
 ### Using the app
 <!-- ![image] () -->
 **Eat-Da-Burger Option**
-[Watch the video for Eat-Da-Burger demo - Option]
+<!-- [Watch the video for Eat-Da-Burger demo - Option] -->
 
 **Order a burger**
-[Watch the video for Eat-Da-Burger demo - Order]
+<!-- [Watch the video for Eat-Da-Burger demo - Order] -->
 
 **Reordering a burger**
-[Watch the video for Eat-Da-Burger demo - Reodering]
+<!-- [Watch the video for Eat-Da-Burger demo - Reodering] -->
 
 ## Deployment
 This application is deployed at [https://frozen-anchorage-69675.herokuapp.com/](https://frozen-anchorage-69675.herokuapp.com/)
@@ -91,7 +91,7 @@ Paoge Moua - primary author
 * GitHub: https://github.com/paogemoua
 
 ## Reference
-* [Bobs Burgers - Burger of the Day]
+* [Bob's Burgers - Burger of the Day]
 
 ## Project Status
 12.31.18 Project open - in progress
@@ -110,7 +110,7 @@ Paoge Moua - primary author
 [Visual Studio Code]: https://code.visualstudio.com/download
 [Git Bash]: https://git-scm.com/downloads
 [Chrome]: https://www.google.com/chrome/
-[Watch the video for Eat-Da-Burger demo - Option]: 
+<!-- [Watch the video for Eat-Da-Burger demo - Option]: 
 [Watch the video for Eat-Da-Burger demo - Order]: 
-[Watch the video for Eat-Da-Burger demo - Reodering]: 
-[Bobs Burgers - Burger of the Day]: http://bobs-burgers.wikia.com/wiki/Burger_of_the_Day
+[Watch the video for Eat-Da-Burger demo - Reodering]: -->
+[Bob's Burgers - Burger of the Day]: http://bobs-burgers.wikia.com/wiki/Burger_of_the_Day
