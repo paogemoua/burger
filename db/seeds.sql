@@ -1,0 +1,2 @@
+INSERT INTO burgers (burger_name) VALUES ('Baby You Can Chive My Car Burger'),('Foot Feta-ish Burger'),('Dark Side of the Shroom Burger');
+INSERT INTO burgers (burger_name, devoured) VALUES ('Hit Me With Your Best Shallot Burger', true),('Bet It All on Black Garlic Burger', false),('New Bacon-ings', true);
