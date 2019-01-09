@@ -26,41 +26,7 @@ Eat-Da-Burger is a restaurant app that lets users input the names of burgers the
 All the recommended files and directories from the steps above should look like the following structure:
 
 <!-- ![image] () -->
-<!-- ![Directory Structure](./public/assets/im/Directory_Structure-half.jpg) -->
-
-.
-+ -- _config
-|   +-- connection.js
-|   +-- orm.js
-|
-+ -- _controllers
-|   +-- burgers_controller.js
-|
-+ -- _db
-|   +-- schema.sql
-|   +-- seeds.sql
-|
-+ -- _models
-|   +-- burger.js
-|
-+ -- _node_modules
-|
-+ -- _package.json
-|
-+ -- _public
-|   +-- _assets
-|       +-- css
-|           +-- burger_style.css
-|       +-- img
-|           +-- burger.png
-|
-|
-+ -- _server.js
-|
-+ -- _views
-    +-- index.handlebars
-    +-- layouts
-        +-- main.handlebars
+![Directory Structure](./public/assets/img/Directory_Structure-half.jpg)
 
 ## Installations
 ### Setup
