@@ -91,7 +91,7 @@ Paoge Moua - primary author
 * GitHub: https://github.com/paogemoua
 
 ## Reference
-* [Bob's Burgers - Burger of the Day]
+* [Bobs Burgers - Burger of the Day]
 
 ## Project Status
 12.31.18 Project open - in progress
@@ -113,4 +113,4 @@ Paoge Moua - primary author
 [Watch the video for Eat-Da-Burger demo - Option]: 
 [Watch the video for Eat-Da-Burger demo - Order]: 
 [Watch the video for Eat-Da-Burger demo - Reodering]: 
-[Bob's Burgers - Burger of the Day]: http://bobs-burgers.wikia.com/wiki/Burger_of_the_Day
+[Bobs Burgers - Burger of the Day]: http://bobs-burgers.wikia.com/wiki/Burger_of_the_Day
